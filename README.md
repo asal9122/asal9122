@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and Biomedical Engineering
 - 🌱 I’m currently learning machine learning, R and bioinformatics
 - 💞️ I’m looking to collaborate on bio-data projects.
-- 📫 How to reach me : asal.ayar@gmail.com
+- 📫 How to reach me : zahraa.ayar@gmail.com
 
 <!---
 asal9122/asal9122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
